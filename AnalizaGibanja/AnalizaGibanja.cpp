@@ -120,6 +120,9 @@ int main()
     std::cout << "Number of steps in valleys: " << stepsValleys << "\n";
     std::cout << "Number of steps at sea level: " << stepsSeaLevel << "\n";
 
+    std::cout << "\nPress any key to continue...\n";
+    std::cin.get();
+
 }
 
 
